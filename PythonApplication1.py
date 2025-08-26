@@ -60,4 +60,4 @@ print("\nDropped the table.")
 
 # Close the connection
 conn.close()
-print("Connetion closed.")
+print("Connection closed.")
